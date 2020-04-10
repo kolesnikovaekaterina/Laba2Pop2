@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1586505116 source:c:\users\79085\desktop\lab2pop2\main.cpp
+	<iostream>
+	<string>
+	"Product.h"
+
+1586507329 c:\users\79085\desktop\lab2pop2\product.h
+	<iostream>
+	<cstring>
+
+1586507329 source:c:\users\79085\desktop\lab2pop2\product.cpp
+	<iostream>
+	"Product.h"
+
